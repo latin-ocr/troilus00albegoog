@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./troilus00albegoog_0007.png"; bbox 0 0 2509 3917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 442 1145 699 1201">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 442 1145 699 1201">
+     <span class='ocr_line' id='line_1_1' title="bbox 442 1145 699 1201; baseline 0.008 -2"><span class='ocrx_word' id='word_1_1' title='bbox 442 1146 511 1201; x_wconf 83' lang='lat' dir='ltr'>Plls</span> <span class='ocrx_word' id='word_1_2' title='bbox 534 1145 699 1201; x_wconf 84' lang='lat' dir='ltr'>MANIBUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 321 1340 822 1410">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 321 1340 822 1410">
+     <span class='ocr_line' id='line_1_2' title="bbox 321 1340 822 1410; baseline 0.002 -2"><span class='ocrx_word' id='word_1_3' title='bbox 321 1340 564 1410; x_wconf 85' lang='lat' dir='ltr'><strong>FAUTORUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 586 1341 822 1409; x_wconf 84' lang='lat' dir='ltr'><strong>AMIOORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 396 1597 742 1683">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 396 1597 742 1683">
+     <span class='ocr_line' id='line_1_3' title="bbox 396 1597 742 1683; baseline -0.003 -1"><span class='ocrx_word' id='word_1_5' title='bbox 396 1598 432 1683; x_wconf 88' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_6' title='bbox 466 1597 513 1683; x_wconf 83' lang='grc' dir='ltr'>Α.</span> <span class='ocrx_word' id='word_1_7' title='bbox 545 1599 742 1682; x_wconf 76' lang='lat' dir='ltr'>EBER&#39;H</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 248 1862 891 1980">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 248 1862 891 1980">
+     <span class='ocr_line' id='line_1_4' title="bbox 248 1862 891 1980; baseline -0.002 -31"><span class='ocrx_word' id='word_1_8' title='bbox 248 1863 290 1949; x_wconf 73' lang='grc' dir='ltr'>ο.</span> <span class='ocrx_word' id='word_1_9' title='bbox 323 1865 373 1980; x_wconf 46' lang='grc' dir='ltr'>Ρ.μ</span> <span class='ocrx_word' id='word_1_10' title='bbox 403 1862 446 1949; x_wconf 76' lang='lat' dir='ltr'>c.</span> <span class='ocrx_word' id='word_1_11' title='bbox 479 1862 891 1951; x_wconf 67' lang='lat' dir='ltr'><strong>soflossNssMANNl</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 372 2128 765 2215">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 372 2128 765 2215">
+     <span class='ocr_line' id='line_1_5' title="bbox 372 2128 765 2215; baseline -0.003 0"><span class='ocrx_word' id='word_1_12' title='bbox 372 2131 417 2215; x_wconf 80' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_13' title='bbox 450 2128 765 2214; x_wconf 77' lang='lat' dir='ltr'><strong>BETHMANNI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1260 3917">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1260 3917">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1260 3917; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1260 3917; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
